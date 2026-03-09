@@ -1,0 +1,79 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Testing / cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Selenium / browser session
+# =========================
+.session/
+profile/
+chrome_profile/
+user-data/
+user_data/
+
+# =========================
+# Runtime / local state
+# =========================
+storage/seen_messages.json
+
+# =========================
+# Local config with sensitive data
+# Keep config.example.json versioned
+# =========================
+config.json
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Jupyter / misc
+# =========================
+.ipynb_checkpoints/

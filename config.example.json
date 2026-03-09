@@ -1,0 +1,23 @@
+{
+  "browser": {
+    "profile_dir": ".session/chrome",
+    "headless": false,
+    "wait_timeout_seconds": 30,
+    "login_timeout_seconds": 240
+  },
+  "monitor": {
+    "archive_group": "Arquivos",
+    "source_groups": [
+      "IT NETWORKING 5"
+    ],
+    "keywords": [
+      "estágio"
+    ],
+    "poll_interval_seconds": 20,
+    "lookback_messages": 30,
+    "skip_own_messages": true,
+    "dry_run": true,
+    "state_file": "storage/seen_messages.json",
+    "require_link": true
+  }
+}
