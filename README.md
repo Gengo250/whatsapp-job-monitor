@@ -1,6 +1,6 @@
 <div align="center">
 
-![WhatsApp Internship Monitor](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F9D58,50:25D366,100:128C7E&text=WhatsApp%20Internship%20Monitor&fontColor=ffffff&fontAlignY=38&desc=Local%20WhatsApp%20Web%20group%20monitoring%20with%20Python%20and%20Selenium&descAlignY=60&descSize=18)
+![WhatsApp Job Monitor](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B5D4B,50:1FA463,100:25D366&text=WhatsApp%20Job%20Monitor&fontColor=ffffff&fontAlignY=38&fontSize=42&desc=Automated%20monitoring%20of%20selected%20WhatsApp%20groups%20with%20Python%20and%20Selenium&descAlignY=60&descSize=16)
 
 # WhatsApp Internship Monitor
 
