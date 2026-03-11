@@ -243,16 +243,6 @@ Original message content found in the group
 - keep Chrome and Selenium updated
 - treat `app/whatsapp_client.py` as the main maintenance point, since it depends on the WhatsApp Web DOM
 
-### Suggested `.gitignore`
-
-```gitignore
-.venv/
-__pycache__/
-*.pyc
-.session/
-storage/seen_messages.json
-config.json
-```
 
 ---
 
