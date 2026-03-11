@@ -121,30 +121,6 @@ whatsapp_estagio_monitor/
 └── run.py
 ```
 
-### Complete visible tree of the repository
-
-```text
-whatsapp_estagio_monitor/
-├── app/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── formatter.py
-│   ├── keyword_matcher.py
-│   ├── logging_setup.py
-│   ├── models.py
-│   ├── monitor_service.py
-│   ├── state_store.py
-│   └── whatsapp_client.py
-├── storage/
-│   └── seen_messages.json
-├── config.example.json
-├── README.md
-├── requirements.txt
-└── run.py
-```
-
-> Hidden or local environment folders such as `.venv/`, `.session/`, `__pycache__/`, and temporary files are intentionally omitted from the documentation tree.
-
 ---
 
 ## Requirements
